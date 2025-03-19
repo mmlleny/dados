@@ -1,1 +1,1 @@
-# dados
+# Jogo de dados
